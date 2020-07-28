@@ -1,0 +1,18 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+#xampp_logo{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+
+#xampp_panel{
+    width: 500px;
+    margin: 0 15px;
+}
+
+p{
+    text-align: justify;
+}
